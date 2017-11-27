@@ -1,0 +1,120 @@
+/*
+Estilos body
+*/
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+/*
+Estilos Header
+*/
+
+header{
+  background-color: #6EAF1F;
+}
+
+/*
+Estilos h1 y h6
+*/
+
+h1{
+  color: #fff;
+  font-size: 4em;
+  padding: 0.5em 1.5em 0.2em;
+  text-align: right;
+}
+
+h6{
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: 400;
+  padding: 0 4em 2em;
+  text-align: right;
+}
+
+/*
+Estilos Section 1, 3 y 5 "Imagenes Grandes"
+*/
+
+.pandaOne, .pandaTwo, .pandaThree{
+  width: inherit;
+}
+
+/*
+Estilos Section 2
+*/
+
+.sectionTwo{
+  background-color: #6EAF1F;
+  margin-top: -0.25em
+}
+
+.aboutPandas{
+  /*outline: 1px solid orange;*/
+  width: auto;
+  height: auto;
+  margin: 3.5em 0;
+  padding: 1.5em;
+  color: #fff;
+  background-color: #0E6A00;
+  border-radius: 0.3125em;
+}
+
+h3{
+  margin-bottom: 0.6em;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.textAboutPandas{
+  font-size: 1em;
+  text-align: justify;
+}
+
+/*
+Estilos Section 4
+*/
+
+.sectionFour{
+  background-color: #6EAF1F;
+  margin-top: -0.25em;
+}
+
+.titleSec4{
+  width: auto;
+  height: auto;
+  font-size: 2em;
+  color: #fff;
+  margin-top: 1.5em;
+}
+
+.pandas{
+  /*outline: 1px solid orange;*/
+  width: auto;
+  height: auto;
+  text-align: center;
+  margin:2em 0;
+}
+
+.panda1, .panda2, .panda3, .panda4{
+  border-radius: 0.3125em;
+  width: 100%;;
+  height: auto;
+  margin-bottom: 4em;
+}
+
+/*
+Estilos Footer
+*/
+
+.footer{
+  background-color: #6EAF1F;
+  text-align: right;
+  margin-top: -0.25em;
+}
+
+.textFooter{
+  color: #fff;
+  font-size: 1em;
+  padding: 2em 4em;
+}
